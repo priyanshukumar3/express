@@ -4,6 +4,8 @@
 
 **This project has a [Code of Conduct][].**
 
+# Priyanshu Kumar
+
 ## Table of contents
 
 * [Installation](#Installation)
